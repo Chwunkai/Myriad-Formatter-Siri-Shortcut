@@ -1,5 +1,5 @@
 # Myriad-Formatter-Siri-Shortcut
-A Siri Shortcut that converts number formatting from thousands separators (1,000) to myriad separators (1,0000), optimized for East Asian numbering systems.
+A Siri Shortcut that converts number formatting from thousands separators (1,000) to myriad separators (1,0000), optimized for CJK numbering systems.
 ## How to Use
 You can trigger this shortcut in two ways:
 1. **Manual Input**:
